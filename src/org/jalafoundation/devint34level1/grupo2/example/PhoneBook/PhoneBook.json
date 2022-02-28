@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Ungrouped",
+    "contacts": [
+      {
+        "name": "Rolando",
+        "lastName": "Mamani",
+        "nickName": "Roly",
+        "contactInfoList": [
+          {
+            "isPreferred": true,
+            "contactInfoType": "CELLPHONE",
+            "value": "+591 674545455"
+          }
+        ],
+        "groupName": "Ungrouped"
+      },
+      {
+        "name": "Pablo",
+        "lastName": "Munoz",
+        "nickName": "Pablito",
+        "contactInfoList": [
+          {
+            "isPreferred": true,
+            "contactInfoType": "CELLPHONE",
+            "value": "+591 76423057"
+          }
+        ],
+        "groupName": "Ungrouped"
+      },
+      {
+        "name": "Luana",
+        "lastName": "Orellana",
+        "nickName": "Lu",
+        "contactInfoList": [
+          {
+            "isPreferred": true,
+            "contactInfoType": "CELLPHONE",
+            "value": "+54 54776136"
+          }
+        ],
+        "groupName": "Ungrouped"
+      },
+      {
+        "name": "Gustavo",
+        "lastName": "Rojas",
+        "nickName": "Gus",
+        "contactInfoList": [
+          {
+            "user": "gustavo@gmail.com",
+            "domain": "GMAIL",
+            "isPreferred": true,
+            "contactInfoType": "EMAIL",
+            "value": "gustavo@gmail.com@gmail.com"
+          }
+        ],
+        "groupName": "Ungrouped"
+      }
+    ]
+  },
+  {
+    "name": "Family",
+    "contacts": [
+      {
+        "name": "Mary",
+        "lastName": "Mamani",
+        "nickName": "Maris",
+        "contactInfoList": [
+          {
+            "isPreferred": true,
+            "contactInfoType": "EMAIL",
+            "value": "mary@hotmail.com"
+          }
+        ],
+        "groupName": "Family"
+      }
+    ]
+  }
+]
